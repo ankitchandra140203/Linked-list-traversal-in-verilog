@@ -1,5 +1,13 @@
 # Linked list traversal in verilog
- Traversing linked list and comparing data of each node of linked list in verilog
+The attached xpr file contain two verilog files 
+
+## PROBLEM STATEMENT ->
+   ## In File 1: 
+   Traversing linked list and comparing data of each node of linked list in verilog
+   ## In File 2: 
+   Traversing linked list and unhasing the hased data of each node and also finding unwanted infinite loops in linked list which can affect traversal to every node of linked list
+
+   ## ATTACHED PDF FILE CONTAINS PROBLEM STATEMENT.
 
  ## Let's breakdown the code
 
@@ -11,9 +19,6 @@
 
  ### Internal Registers:
  These declare internal registers to store state information, time, addresses, and other control signals.
-
- ### Clock Generation:
- This generates a clock signal with a period of 20 ns.
 
  ### State Transition Logic:
  This block updates the state of the FSM on the positive edge of the clock based on the reset input.
