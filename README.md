@@ -5,7 +5,7 @@ The attached xpr file contain two verilog files
    ## In File 1: 
    Traversing linked list and comparing data of each node of linked list in verilog
    ## In File 2: 
-   Traversing linked list and unhasing the hased data of each node and also finding unwanted infinite loops in linked list which can affect traversal to every node of linked list
+   Traversing linked list and unhashing the hashed data of each node and also finding unwanted infinite loops in linked list which can affect traversal to every node of linked list
 
    ## ATTACHED PDF FILE CONTAINS PROBLEM STATEMENT.
 
